@@ -1,0 +1,25 @@
+.con{
+    margin-top: 50px;
+    border-style: solid;
+    border-color: #a0b3b0;
+    border-width: 1px;
+    width: 50em;
+    box-shadow: 3px 3px 6px #888888;
+    background: rgba(19, 35, 47, 0.9);
+    color:#ffffff;
+}
+footer{
+    margin-top: 30px;
+    height: 60px;
+    background-color: #13232f;
+    color:#1ab188 ;
+}
+footer > h4{
+
+    text-align: center;
+}
+footer > p{
+
+    text-align: center;
+
+}

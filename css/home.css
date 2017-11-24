@@ -1,0 +1,46 @@
+.con{
+    width: 75%;
+    height: auto;
+}
+.row1{
+    background-image: url("../images/room.jpg");
+    border-style: solid;
+    border-width: 1px;
+    border-color: silver;
+    height: 400px;
+}
+.welcome{
+    margin-top: 300px;
+    margin-left: 600px;
+    color: #ffffff;
+}
+.col{
+    margin-top: 20px;
+
+}
+.panhead{
+    background-color: #13232f;
+}
+.panbody{
+    height: 100px;
+    background-color: silver;
+
+}
+.glyphicon{
+    color: #1ab188;
+}
+footer{
+    margin-top: 30px;
+    height: 60px;
+    background-color: #13232f;
+    color:#1ab188 ;
+}
+footer > h4{
+
+    text-align: center;
+}
+footer > p{
+
+    text-align: center;
+
+}
